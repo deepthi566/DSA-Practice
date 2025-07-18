@@ -2,13 +2,13 @@
 ##  DSA Daily Progress
 
 ### ✅ July 16:
-- 303. Range Sum Query (Prefix Sum) 
+-  Range Sum Query (Prefix Sum) 
 
 ### ✅ July 17:
-- 3612. Process String 
-- 496. Next Greater Element I
+-  Process String 
+-  Next Greater Element I
  
 ### ✅ July 18:
-- 739. Daily Temperatures 
--      Stock Span
+-  Daily Temperatures 
+-  Stock Span
 
