@@ -12,3 +12,6 @@
 -  Daily Temperatures 
 -  Stock Span
 
+### ✅ July 19:
+-  Largest Rectangle in histogram
+
