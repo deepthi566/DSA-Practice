@@ -15,3 +15,7 @@
 ### ✅ July 19:
 -  Largest Rectangle in histogram
 
+### ✅ July 20:
+-  Preorder Traversal
+-  Inorder Traversal
+-  Postorder Traversal
